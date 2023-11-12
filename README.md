@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://luisrigo.com/wp-content/uploads/2020/11/logo-fundo-transparente.png"  />
+  <img height="200" src="https://github.com/luisrigo2005/luisrigo2005/blob/main/luis_rigo_cloud_architect_arquiteto_cloud_especialista_AWS.jpg"  />
 </div>
 
 ###
