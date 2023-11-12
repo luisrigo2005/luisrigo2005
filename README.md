@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luisrigo2005/luisrigo2005/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
