@@ -1,6 +1,9 @@
 <p align="left">👋 Olá, sou Luis Rigo!<br><br>🎓 Graduado em Computação em Nuvem pela Universidade Anhanguera, venho trilhando minha jornada na área de tecnologia desde 1990. Sou apaixonado por programação Python, especializado em AWS e dedicado ao universo do DevOps.<br><br>💻 Com vasta experiência, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores. Meu foco está em encontrar soluções eficientes e escaláveis, combinando o poder da programação com a flexibilidade da computação em nuvem.<br><br>🚀 Seja bem-vindo ao meu repositório! Aqui, compartilho meus conhecimentos, projetos e aprendizados. Sinta-se à vontade para explorar e colaborar. Juntos, podemos impulsionar a tecnologia para novos patamares!</p>
 
 ###
+<img src="https://camo.githubusercontent.com/71216948feeef01051dd7e32b6420eadd33be71a8bd29845ae254805458b80a7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6169636f6e2d4c6172612673697a655f7765696768743d302e3526636f756e745f7765696768743d302e352673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrigo2005&amp;size_weight=0.5&amp;count_weight=0.5&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
+
+###
 
 <img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
 
