@@ -3,7 +3,6 @@
 ###
 <img src="https://camo.githubusercontent.com/cb0d3cb0efe32563c6a1ffdb3953a969a8ac9d49bd2ee5f2eb4a36c7207cde70/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d6169636f6e2d4c6172612673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Luís Rigo's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luisrigo2005&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
 
-
 ###
 
 <img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
