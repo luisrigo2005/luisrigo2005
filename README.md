@@ -1,11 +1,8 @@
 <p align="left">👋 Olá, sou Luis Rigo!<br><br>🎓 Graduado em Computação em Nuvem pela Universidade Anhanguera, venho trilhando minha jornada na área de tecnologia desde 1990. Sou apaixonado por programação Python, especializado em AWS e dedicado ao universo do DevOps.<br><br>💻 Com vasta experiência, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores. Meu foco está em encontrar soluções eficientes e escaláveis, combinando o poder da programação com a flexibilidade da computação em nuvem.<br><br>🚀 Seja bem-vindo ao meu repositório! Aqui, compartilho meus conhecimentos, projetos e aprendizados. Sinta-se à vontade para explorar e colaborar. Juntos, podemos impulsionar a tecnologia para novos patamares!</p>
 
 ###
+<img src="https://camo.githubusercontent.com/cb0d3cb0efe32563c6a1ffdb3953a969a8ac9d49bd2ee5f2eb4a36c7207cde70/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d6169636f6e2d4c6172612673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Luís Rigo's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luisrigo2005&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisrigo2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisrigo2005&locale=pt-br&hide_title=false&layout=compact&card_width=3&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
- </div>
 
 ###
 
