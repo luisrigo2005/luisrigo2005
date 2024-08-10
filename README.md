@@ -1,7 +1,7 @@
 <p align="left">👋 Olá, sou Luis Rigo!<br><br>🎓 Graduado em Computação em Nuvem pela Universidade Anhanguera, venho trilhando minha jornada na área de tecnologia desde 1990. Sou apaixonado por programação Python, especializado em AWS e dedicado ao universo do DevOps.<br><br>💻 Com vasta experiência, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores. Meu foco está em encontrar soluções eficientes e escaláveis, combinando o poder da programação com a flexibilidade da computação em nuvem.<br><br>🚀 Seja bem-vindo ao meu repositório! Aqui, compartilho meus conhecimentos, projetos e aprendizados. Sinta-se à vontade para explorar e colaborar. Juntos, podemos impulsionar a tecnologia para novos patamares!</p>
 
 ###
-![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=synthwave)
+![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=cobalt)
 ###
 
 <img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
