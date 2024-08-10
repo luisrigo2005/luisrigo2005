@@ -2,6 +2,8 @@
 
 ###
 ![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrigo2005)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
