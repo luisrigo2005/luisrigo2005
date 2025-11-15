@@ -1,164 +1,102 @@
 <div align="center">
-  <img height="200" src="https://github.com/luisrigo2005/luisrigo2005/blob/main/wallpaper_linkedin.png"  />
+  <img height="220" src="https://github.com/luisrigo2005/luisrigo2005/blob/main/wallpaper_linkedin.png" />
 </div>
-<p align="left">👋 Olá, eu sou o Luís Rigo!
+
+# 👋 Olá, eu sou o Luís Rigo!
 
 **Arquiteto Multicloud | Especialista em AWS, Azure, GCP & OCI | DevOps & Inteligência Artificial**
 
-Profissional de tecnologia com mais de 30 anos de experiência, especializado em **ambientes multicloud, automação, DevOps e otimização com IA aplicada**.  
+Profissional de tecnologia com mais de **30 anos de experiência**, especializado em **arquiteturas multicloud, automação, DevOps e IA aplicada a operações**.
 
-Atuo construindo arquiteturas modernas, escaláveis e seguras, combinando práticas de **Infraestrutura como Código**, **CI/CD**, **observabilidade**, **migração para cloud** e **cultura DevOps** para transformar ambientes corporativos.
+Atuo projetando **ambientes modernos, escaláveis e seguros**, unindo:
+- Infraestrutura como Código  
+- CI/CD  
+- Orquestração  
+- Observabilidade  
+- Migração de workloads  
+- AIOps  
 
-Sou apaixonado por levar simplicidade para ambientes complexos — traduzindo desafios técnicos em **soluções práticas, inteligentes e integradas**.
+Meu foco é **simplificar ambientes complexos**, traduzindo desafios técnicos em soluções reais e escaláveis.
 
 ---
 
-### 🚀 O que eu faço
-- Arquitetura Multicloud (AWS, Azure, Google Cloud, Oracle Cloud)  
+## 🚀 O que eu faço
+
+- Arquitetura Multicloud (AWS | Azure | GCP | OCI)  
 - Pipelines CI/CD (GitHub Actions, GitLab CI, Jenkins, Azure DevOps)  
-- Automação e IaC (Terraform, Ansible, CloudFormation)  
-- Containers & Orquestração (Docker e Kubernetes)  
+- IaC (Terraform, Ansible, CloudFormation)  
+- Containers e Kubernetes  
 - Monitoramento e Observabilidade (Prometheus, Grafana, CloudWatch)  
-- Migração de ambientes on-premises para cloud  
-- IA aplicada à automação e operações (AIOps)
+- Migrações on-premises → cloud  
+- IA aplicada a automação e operações (AIOps)
 
 ---
 
-### 📌 Projetos em destaque
+## 📌 Projetos em destaque
 
-- **Migração Oracle + ERP Delphi para AWS**  
-  Case completo de migração lift-and-shift e modernização.
-
-- **Pipelines CI/CD Multicloud**  
-  Pipelines integrados com Terraform, GitHub Actions, Docker e Kubernetes.
-
-- **Automação Inteligente com Python & IA**  
-  Scripts e automações que combinam Cloud + DevOps + IA generativa.
+- **Migração Oracle + ERP Delphi para AWS** (lift-and-shift + modernização)  
+- **Pipelines CI/CD Multicloud** usando Terraform + GitHub Actions + Kubernetes  
+- **Automação Inteligente com Python & IA**
 
 ---
 
-### 🌐 Conecte-se comigo
-- **LinkedIn:** https://www.linkedin.com/in/luisrigocloudarchitect/  
-- **Medium:** https://medium.com/@luisrigo2005  
-- **Site:** https://luisrigo.com
+## 🎥 Projetos em vídeo
+
+- Migração ERP Delphi + Oracle para AWS – *case real*  
+  🔗 https://www.youtube.com/watch?v=JcHNOKTz0W8  
+
+- Resultados e desafios pós-migração  
+  🔗 https://www.youtube.com/watch?v=7eX2zdZJlWc
 
 ---
 
-### 💡 Frase que define meu trabalho:
-> *“Cloud não precisa ser complicado. Eu transformo ambientes complexos em soluções escaláveis com foco em resultados.”*
-</p>
+## 🎓 Certificações & Formações
 
-### 🎓 Certificações e formações
-- Formação Expert em IA – MEC (2025)
-- Certificações AWS
+- Formação Expert em IA — **Reconhecida pelo MEC**  
+- Certificações em AWS  
 - Especialização Multicloud (AWS, Azure, GCP, OCI)
 
-### 🎥 Projetos em destaque (em vídeo)
-- Migração ERP (Delphi + Oracle) para AWS — Caso real  
-  https://www.youtube.com/watch?v=JcHNOKTz0W8
-- Resultados e desafios pós-migração  
-  https://www.youtube.com/watch?v=7eX2zdZJlWc
+---
 
-###
-![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrigo2005)](https://github.com/anuraghazra/github-readme-dark)
+## 🌐 Conecte-se comigo
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisrigocloudarchitect/)  
+[![Medium](https://img.shields.io/badge/Medium-Artigos-black?style=for-the-badge&logo=medium)](https://medium.com/@luisrigo2005)  
+[![Site](https://img.shields.io/badge/Portfolio-luisrigo.com-0A66C2?style=for-the-badge)](https://luisrigo.com)
 
-<img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="Snake animation" />
+---
 
-###
+## 💡 Frase que me representa
+> **“Cloud não precisa ser complicada. Eu transformo ambientes complexos em soluções escaláveis com foco em resultados.”**
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="40" alt="opensuse logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-</div>
+---
 
-###
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=merko)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrigo2005&layout=compact&theme=merko)
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luisrigocloudarchitect/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+### 💻 Cloud & DevOps
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
+
 </div>
 
-###
+---
 
-###
-
-###
+<div align="center">
+  <img src="https://github.com/luisrigo2005/luisrigo2005/blob/main/snake.svg" alt="snake animation"/>
+</div>
