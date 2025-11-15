@@ -55,7 +55,7 @@ Sou apaixonado por levar simplicidade para ambientes complexos — traduzindo de
 
 ### 🎥 Projetos em destaque (em vídeo)
 - Migração ERP (Delphi + Oracle) para AWS — Caso real  
-  <a href="https://www.youtube.com/watch?v=JcHNOKTz0W8" target="_blank">Vídeo na Integra</a>
+  https://www.youtube.com/watch?v=JcHNOKTz0W8
 - Resultados e desafios pós-migração  
   https://www.youtube.com/watch?v=7eX2zdZJlWc
 
