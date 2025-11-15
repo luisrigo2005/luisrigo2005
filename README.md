@@ -94,7 +94,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luisrigocloudarchitect/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://github.com/luisrigo2005/luisrigo2005/blob/main/Cloud%20n%C3%A3o%20precisa%20ser%20complicado.%20Eu%20traduzo%20desafios%20t%C3%A9cnicos%20em%20solu%C3%A7%C3%B5es%20escal%C3%A1veis%20com%20foco%20em%20resultado..png)" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
