@@ -1,7 +1,7 @@
 <div align="center">
   <img height="200" src="https://github.com/luisrigo2005/luisrigo2005/blob/main/wallpaper_linkedin.png"  />
 </div>
-<p align="left">## 👋 Olá, eu sou o Luís Rigo!
+<p align="left">👋 Olá, eu sou o Luís Rigo!
 
 **Arquiteto Multicloud | Especialista em AWS, Azure, GCP & OCI | DevOps & Inteligência Artificial**
 
