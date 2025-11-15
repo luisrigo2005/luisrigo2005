@@ -106,8 +106,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/luisrigo2005/count.svg?"  />
-</div>
-
 ###
