@@ -1,4 +1,49 @@
-<p align="left">👋 Olá, sou Luis Rigo!<br><br>🎓 Graduado em Computação em Nuvem pela Universidade Anhanguera, venho trilhando minha jornada na área de tecnologia desde 1990. Sou apaixonado por programação Python, especializado em AWS e dedicado ao universo do DevOps.<br><br>💻 Com vasta experiência, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores. Meu foco está em encontrar soluções eficientes e escaláveis, combinando o poder da programação com a flexibilidade da computação em nuvem.<br><br>🚀 Seja bem-vindo ao meu repositório! Aqui, compartilho meus conhecimentos, projetos e aprendizados. Sinta-se à vontade para explorar e colaborar. Juntos, podemos impulsionar a tecnologia para novos patamares!</p>
+<p align="left">## 👋 Olá, eu sou o Luís Rigo!
+
+**Arquiteto Multicloud | Especialista em AWS, Azure, GCP & OCI | DevOps & Inteligência Artificial**
+
+Profissional de tecnologia com mais de 30 anos de experiência, especializado em **ambientes multicloud, automação, DevOps e otimização com IA aplicada**.  
+
+Atuo construindo arquiteturas modernas, escaláveis e seguras, combinando práticas de **Infraestrutura como Código**, **CI/CD**, **observabilidade**, **migração para cloud** e **cultura DevOps** para transformar ambientes corporativos.
+
+Sou apaixonado por levar simplicidade para ambientes complexos — traduzindo desafios técnicos em **soluções práticas, inteligentes e integradas**.
+
+---
+
+### 🚀 O que eu faço
+- Arquitetura Multicloud (AWS, Azure, Google Cloud, Oracle Cloud)  
+- Pipelines CI/CD (GitHub Actions, GitLab CI, Jenkins, Azure DevOps)  
+- Automação e IaC (Terraform, Ansible, CloudFormation)  
+- Containers & Orquestração (Docker e Kubernetes)  
+- Monitoramento e Observabilidade (Prometheus, Grafana, CloudWatch)  
+- Migração de ambientes on-premises para cloud  
+- IA aplicada à automação e operações (AIOps)
+
+---
+
+### 📌 Projetos em destaque
+
+- **Migração Oracle + ERP Delphi para AWS**  
+  Case completo de migração lift-and-shift e modernização.
+
+- **Pipelines CI/CD Multicloud**  
+  Pipelines integrados com Terraform, GitHub Actions, Docker e Kubernetes.
+
+- **Automação Inteligente com Python & IA**  
+  Scripts e automações que combinam Cloud + DevOps + IA generativa.
+
+---
+
+### 🌐 Conecte-se comigo
+- **LinkedIn:** https://www.linkedin.com/in/luisrigocloudarchitect/  
+- **Medium:** https://medium.com/@luisrigo2005  
+- **Site:** https://luisrigo.com
+
+---
+
+### 💡 Frase que define meu trabalho:
+> *“Cloud não precisa ser complicado. Eu transformo ambientes complexos em soluções escaláveis com foco em resultados.”*
+</p>
 
 ###
 ![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=merko)
