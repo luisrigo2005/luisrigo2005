@@ -48,6 +48,17 @@ Sou apaixonado por levar simplicidade para ambientes complexos — traduzindo de
 > *“Cloud não precisa ser complicado. Eu transformo ambientes complexos em soluções escaláveis com foco em resultados.”*
 </p>
 
+### 🎓 Certificações e formações
+- Formação Expert em IA – MEC (2025)
+- Certificações AWS
+- Especialização Multicloud (AWS, Azure, GCP, OCI)
+
+### 🎥 Projetos em destaque (em vídeo)
+- Migração ERP (Delphi + Oracle) para AWS — Caso real  
+  https://www.youtube.com/watch?v=JcHNOKTz0W8  
+- Resultados e desafios pós-migração  
+  https://www.youtube.com/watch?v=7eX2zdZJlWc
+
 ###
 ![Luís Rigo GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrigo2005&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrigo2005)](https://github.com/anuraghazra/github-readme-dark)
